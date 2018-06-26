@@ -6,4 +6,6 @@ class App < Sinatra::Base
     "Brooke is the bomb dot com!"
   end
 
+  get '/yazzy' do
+
 end
