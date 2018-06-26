@@ -10,4 +10,8 @@ class App < Sinatra::Base
     "Yazzy rocks all the dance moves."
   end
 
+  get '/lizzy/vidya/tara' do
+    "Rockstar coders!"
+  end
+
 end
