@@ -7,5 +7,7 @@ class App < Sinatra::Base
   end
 
   get '/yazzy' do
+    "Yazzy rocks all the dance moves."
+  end
 
 end
